@@ -35,7 +35,10 @@ note_col = 0
 with open(f'./src/{name}.csv',mode='r') as file:
     for line in file:
         vals = [line.split(',')]
-        # address handling
+        # comment out as appropriate
+        ADDR_NUM = vals[addr_num_col]
+        ADDR_DIR = vals[addr_dir_col]
+        ADDR_NAME = vals[addr_name_col]
         # block lookup
         # tract lookup
         address_tracker[f'{ADDR_NUM} {ADDR_DIR} {ADDR_NAME}'] += 1
