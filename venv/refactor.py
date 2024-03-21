@@ -34,7 +34,7 @@ age_col = 6
 species_col = 3
 note_col = 1
 
-name = 'barge.csv'
+name = 'EBNA.csv'
 with (open(f'./src/inputs/{name}',mode='r') as input,
       open(f'./src/outputs/{name}',mode='w') as output,
       open(f'./src/outputs/tracker_{name}', mode='w') as tracker):
