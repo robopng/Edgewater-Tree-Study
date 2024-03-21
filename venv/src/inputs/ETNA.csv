@@ -2,7 +2,7 @@
 1244 w bryn mawr,,72,green ash,22.93,5,115
 1260 w bryn mawr,,59,norway maple,18.79,4.5,85
 1300 w bryn mawr,,143,white mulberry,45.54,2.3,105
-1302 w bryn mawr,,77,american bassweed,24.52,,0
+1302 w bryn mawr,,77,american bassweed,24.52,0,0
 1304 w bryn mawr,,68,catalpa,21.66,2,43
 1310 w bryn mawr,,114,siver maple,36.31,3,109
 1332 w bryn mawr,,67,sycamore,21.34,4,85
@@ -52,7 +52,7 @@
 1316 w hollywood ave,,105,silver maple,33.44,3,100
 1318 w hollywood ave,,94,silver maple,29.94,3,90
 1320 w hollywood ave,,76,silver maple,24.20,3,73
-1330 w hollywood ave,,58,unidentifiable,18.47,,0
+1330 w hollywood ave,,58,unidentifiable,18.47,0,0
 1338 w hollywood ave,,65,green ash,20.70,5,104
 1340 w hollywood ave,,59,green ash,18.79,5,94
 1404 w hollywood ave,,90,silver maple,28.66,3,86
@@ -63,7 +63,7 @@
 1444 w hollywood ave,,75,honey locust,23.89,3,72
 1448 w hollywood ave,,77,honey locust,24.52,3,74
 1454 w hollywood ave,,80,honey locust,25.48,3,76
-1458 w hollywood ave,,59,american bassweed,18.79,,0
+1458 w hollywood ave,,59,american bassweed,18.79
 1500 w hollywood ave,,72,honey locust,22.93,3,69
 1506 w hollywood ave,,60,silver maple,19.11,3,57
 1512 w hollywood ave,,99,honey locust,31.53,3,95
@@ -71,7 +71,7 @@
 1522 w hollywood ave,,99,honey locust,31.53,3,95
 1525 w hollywood ave,,60,norway maple,19.11,4.5,86
 1517 w hollywood ave,,92,honey locust,29.30,3,88
-1513 w hollywood ave,,59,american bassweed,18.79,,0
+1513 w hollywood ave,,59,american bassweed,18.79
 1501w hollywood ave,,84,honey locust,26.75,3,80
 1465 w hollywood ave,,68,honey locust,21.66,3,65
 1459 w hollywood ave,,65,honey locust,20.70,3,62
