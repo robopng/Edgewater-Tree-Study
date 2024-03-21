@@ -1,0 +1,133 @@
+"Address (omit St., Ave., etc)",Additional Location Details,Circumference,Species,Diameter,GRF,Age
+0000 X INVALID,"41.988135, -87.667095",65,American Elm,21,4,84
+1421 W Ardmore (opposite),Senn HS (west of alley),107,Silver Maple,34,3,102
+1421 W Ardmore (opposite),Senn HS (east of alley),86,Silver Maple,27,3,81
+1411 Ardmore,,83,Silver Maple,26,3,78
+1421 Ardmore,,82,Honey Locust,26,3,78
+1429 Ardmore,,108,American Elm,34,4,136
+1321 Ardmore,,60,American Linden,19,3,57
+1319 Ardmore,,96,Silver Maple,31,3,93
+1309 Ardmore,,66,Silver Maple,21,3,63
+1263 Ardmore,,69,White Ash,22,5,110
+1249 Ardmore,"Subtracted 12"" to compensate for dbl trunk.",80,Silver Maple,25,3,75
+1254 Ardmore,,88,Northern Catalpa,28,2,56
+1258 Ardmore,,97,Silver Maple,31,3,93
+1264 Ardmore,,106,Silver Maple,34,3,102
+1276 Ardmore,,87,White Ash,28,5,140
+1280 Ardmore,,84,Silver Maple,27,3,81
+1300 Ardmore,,108,Silver Maple,34,3,102
+1308 Ardmore,multi trunk,140,Silver Maple,45,3,135
+5734 Broadway,,54,White Ash,17,5,85
+5820 Broadway,audit to come,53,Sugar Maple,17,5.5,93.5
+5850 Broadway,audit to come,47,Sugar Maple,15,5.5,82.5
+0000 X INVALID,"41.984238, -87.660238",52,White ash,17,5.5,93.5
+1301 W Early,,78,Honey Locust,25,3,75
+1305 W Early,,125,Silver Maple,40,3,120
+1309 W Early,,62,Honey Locust,20,3,60
+1312 W Early,,45,White Ash,14,5,70
+1314 W Early,,74,White Ash,24,5,120
+1313 W Early,,92,Silver Maple,29,3,87
+1317 W Early,east parkway tree,80,Silver Maple,25,3,75
+1317 W Early,west parkway tree,78,Silver Maple,25,3,75
+1325 W Early,east parkway tree,97,Silver Maple,31,3,93
+1325 W Early,west parkway tree,67,Silver Maple,21,3,63
+1327 W Early,,80,Honey Locust,25,3,75
+1334 W Early,,69,Norway Maple,22,4.5,99
+1335 W Early,,67,Norway Maple,21,4.5,94.5
+1341 W Early,,90,Silver Maple,29,3,87
+1342 W Early,,82,Honey Locust,26,3,78
+1345 W Early,,109,Silver Maple,35,3,105
+1350 W Early,east parkway tree,88,Silver Maple,28,3,84
+1350 W Early,west parkway tree,96,Silver Maple,31,3,93
+1290 W Early,,77,White Ash,25,5,125
+1288 W Early,,70,Honey Locust,22,3,66
+1281 W Early,,72,Silver Maple,23,3,69
+1279 W Early,,84,Silver Maple,27,3,81
+1276 W Early,,118,Silver Maple,38,3,114
+1275 W Early,,90,Silver Maple,29,3,87
+1272 W Early,,82,Silver Maple,26,3,78
+1264 W Early,,92,Honey Locust,29,3,87
+1269 W Early,,86,Honey Locust,27,3,81
+1261 W Early,,86,Honey Locust,27,3,81
+1258 W Early,,94,Linden,30,3,90
+1256 W Early,,81,Silver Maple,26,3,78
+1252 W Early,,75,Honey Locust,24,3,72
+1248 W Early,,117,SIlver Maple,37,3,111
+1245 W Early,,88,Silver Maple,28,3,84
+1239 W Early,,69,Honey Locust,22,3,66
+1214 W Early,,70,Honey Locust,22,3,66
+1214 W Early,,56,White Ash,18,5,90
+5825 Glenwood,,75,Northern Catalpa,24,2,48
+5814 Glenwood,,90,Honey Locust,29,3,87
+5830 Glenwood,,92,Honey Locust,29,3,87
+5840 Glenwood,,67,American Elm,21,4,84
+0000 X INVALID,NW corner Hollywood & Ridge,46,White oak,15,5,75
+0000 X INVALID,next to dying oak,69,White oak,22,5,110
+0000 X INVALID,dying tree behind welcome sign,70,White oak,22,5,110
+0000 X INVALID,next tree east,44,Field maple,14,4,56
+5843 Magnolia,,112,Tree of Heaven,36,2,72
+5835 Magnolia,,102,Silver Maple,32,3,96
+5827 Magnolia,,55,Norway Maple,18,4.5,81
+5823 Magnolia,,48,Norway Maple,15,4.5,67.5
+5815 Magnolia,,93,Silver Maple,30,3,90
+5811 Magnolia,,46,Norway Maple,15,4.5,67.5
+5805 Magnolia,,113,Silver Maple,36,3,108
+5735 N Magnolia,west sidewalk adjacent to 1223 Victoria,99,Silver Maple,32,3,96
+5729 Magnolia,,80,Silver Maple,25,3,75
+5713 Magnolia,,76,Silver Maple,24,3,72
+5709 Magnolia,,75,Silver Maple,24,3,72
+5705 Magnolia ,,83,Silver Maple,26,3,78
+5649 Magnolia,,49,Norway Maple,16,4.5,72
+5643 Magnolia,,43,White Ash,14,5,70
+5830 Magnolia,,85,Honey Locust,27,3,81
+5862 Magnolia,,57,Norway Maple,18,4,72
+5824 Magnolia,,56,Norway Maple,18,4,72
+5820 Magnolia,,59,Norway Maple,19,4,76
+5818 Magnolia,,51,Norway Maple,16,4,64
+5730 Magnolia,,58,White Ash,18,5,90
+5726 Magnolia,,75,Linden,24,3,72
+5665 Ridge,,43,White Ash,14,5,70
+5681 Ridge,,50,White Ash,16,5,80
+5715 Ridge,,61,American Elm,19,4,76
+5787 Ridge,,80,American Elm,25,4,100
+1276 Victoria,,42,White Ash,13,5,65
+1260 Victoria,,43,Norway Maple,14,4.5,63
+1256 Victoria,,89,Mulberry,28,2.3,64.4
+1256 Victoria,,86,Silver Maple,27,3,81
+1224 Victoria,,85,White Ash,27,5,135
+1221 Victoria,,79,Silver Maple,25,3,75
+1237 Victoria,,72,Silver Maple,23,3,69
+1245 Victoria,,94,Silver Maple,30,3,90
+1247 Victoria,,120,Silver Maple,38,3,114
+1261 Victoria,,58,Norway Maple,18,4.5,81
+1265 Victoria,,52,Norway Maple,17,4.5,76.5
+1265 Victoria,,59,White Ash,19,5,95
+1269 Victoria,,72,Horse chestnut,23,8,184
+1273 Victoria,,50,Norway Maple,16,4.5,72
+1275 Victoria,,54,Norway Maple,17,4.5,76.5
+1277 Victoria,,63,Honey Locust,20,3,60
+1277 Victoria,,55.5,White Ash,18,5,90
+5810 N Wayne,,58,White Ash,18,5,90
+5812 N Wayne,,61,White Ash,19,5,95
+5814 N Wayne,,110,American Elm,35,4,140
+5826 N Wayne,south parkway tree,63,Norway Maple,20,4.5,90
+5826 N Wayne,north parkway tree,68,Norway Maple,22,4.5,99
+5832 N Wayne,,136,Honey Locust,43,3,129
+5836 N Wayne,,51,Norway Maple,16,4.5,72
+5840 N Wayne,south parkway tree,74,Honey Locust,24,3,72
+5825 N Wayne,,162,Silver Maple,52,3,156
+5815 N Wayne,second tree north of door,60,Norway Maple,19,4.5,85.5
+5815 N Wayne,firt tree north of door,58,Norway Maple,18,4.5,81
+5815 N Wayne,first tree south of door,39,Norway Maple,12,4.5,54
+5815 N Wayne,second tree south of door,60,Norway Maple,19,4.5,85.5
+1290 Early,corner of Wayne & Early,65,Norway Maple,21,4.5,94.5
+1281 Early,SE corner Wayne & Early,58,Silver Maple,18,3,54
+1281 Early,across from alley entrance,106,Silver Maple,34,3,102
+1279 Early,rear of building on Wayne,67,Honey Locust,21,3,63
+5705 N Wayne,,56,White Ash,18,5,90
+5710 N Wayne,south parkway tree,45,Norway Maple,14,4.5,63
+5710 N Wayne,north parkway tree,45,Norway Maple,14,4.5,63
+5720 N Wayne,,79,Silver Maple,25,3,75
+5720 N Wayne,,90,American Elm,29,4,116
+5722 N Wayne,,103,Silver Maple,33,3,99
+5734 N Wayne,,113,Silver Maple,36,3,108
