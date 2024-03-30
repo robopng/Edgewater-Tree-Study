@@ -22,7 +22,6 @@ total = 0
 
 # slightly annoying but it really is easiest to just do this manually
 # per excel tab
-name = 'EGA (example)'
 addr_col = 0
 addr_num_col = 0
 addr_dir_col = 1
@@ -34,7 +33,7 @@ age_col = 6
 species_col = 3
 note_col = 1
 
-name = 'ETNA.csv'
+name = 'EBNA.csv'
 with (open(f'./src/inputs/{name}',mode='r') as input,
       open(f'./src/outputs/{name}',mode='w') as output,
       open(f'./src/outputs/tracker_{name}', mode='w') as tracker):
@@ -60,10 +59,10 @@ with (open(f'./src/inputs/{name}',mode='r') as input,
         address_tracker[addr] += 1
 
         # tree specific fields
-        DIAMETER = vals[diam_col]
-        CIRCUMFERENCE = vals[cir_col]
-        GRF = vals[grf_col]
-        AGE = vals[age_col]
+        CIRCUMFERENCE = round(float(vals[cir_col]), 1)
+        DIAMETER = round(float(CIRCUMFERENCE)/3.14, 1)
+        GRF = float(vals[grf_col])
+        AGE = int(DIAMETER*GRF)
         SPECIES = vals[species_col].upper()
         if SPECIES not in species_tracker:
             species_tracker[SPECIES] = 0
@@ -78,10 +77,10 @@ with (open(f'./src/inputs/{name}',mode='r') as input,
                      + f',{SPECIES},{DIAMETER},{GRF},{AGE},{NOTE}\n')
     output.write('\n')
 
-    for dictionary in (block_tracker, tract_tracker, address_tracker, species_tracker):
-        for key in dictionary:
-            tracker.write(f'{key}:{dictionary[key]}\n')
-        tracker.write('\n')
-    tracker.write(f'{over_100}\n')
-    tracker.write(f'{total}\n')
-    tracker.write('\n')
+    # for dictionary in (block_tracker, tract_tracker, address_tracker, species_tracker):
+    #     for key in dictionary:
+    #         tracker.write(f'{key}:{dictionary[key]}\n')
+    #     tracker.write('\n')
+    # tracker.write(f'{over_100}\n')
+    # tracker.write(f'{total}\n')
+    # tracker.write('\n')

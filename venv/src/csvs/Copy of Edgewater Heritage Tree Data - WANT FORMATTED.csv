@@ -1,0 +1,311 @@
+ADDR_NUM,ADDR_DIR,ADDR_NAME,TRACT,BLOCK,CIRCUMFERENCE,SPECIES,DIAMETER,GRF,AGE,NOTE
+,,,,,78.0,Siberian Elm,24.8,2,50,41°58'46.9N 87°40'28.9W
+5239,N,ASHLAND,,,45.0,Black Locust,14.3,3.5,50,East Parkway
+5547,N,ASHLAND,,,52.5,Basswood,16.7,3,50,Mellin Playlot Park
+1610,W,BERWYN,,,52.5,Honey Locust,16.7,3,50,North Parkway
+1743,W,BRYN MAWR,,,52.5,Honey Locust,16.7,3,50,South Parkway near Alley
+5404,N,PAULINA,,,35.0,Norway Maple,11.1,4.5,50,West Parkway
+5501,N,PAULINA,,,52.5,Honey Locust,16.7,3,50,East Parkway-Middle Tree
+1650,W,RASCHER,,,52.5,Honey Locust,16.7,3,50,North Parkway
+5313,N,RAVENSWOOD,,,46.0,Locust,14.6,3.5,51,East Parkway-1-S
+1735,W,BRYN MAWR,,,54.0,Honey Locust,17.2,3,52,South Parkway E Property Edge
+5238,N,CLARK,,,40.5,American Elm,12.9,4,52,West Parkway
+1656,W,FOSTER,,,40.5,Green Ash,12.9,4,52,North Parkway Lutheran Church Mainairs -1W
+5453,N,PAULINA,,,81.5,Catalpa,26,2,52,East Parkway
+5547,N,RAVENSWOOD,,,41.0,American or Slippery Elm,13.1,4,52,On Bryn Mawr South Parkway; Large Industrial Bldg
+5225,N,ASHLAND,,,55.0,Honey Locust,17.5,3,53,East Parkway
+5301,N,RAVENSWOOD,,,55.3,Honey Locust,17.6,3,53,On Berwyn North Parkway
+5345,N,ASHLAND,,,55.5,Linden,17.7,3,53,East Parkway
+1643,W,BERWN,,,33.5,White Ash,10.7,5,54,South Parkway
+1722,W,GREGORY,,,56.0,Crabapple,17.8,3,53,North Parkway 1 W
+1650,W,RASCHER,,,56.0,Honey Locust,17.8,3,53,On Paulina East Parkway Near Corner
+1750,W,SUMMERDALE,,,56.0,Honey Locust,17.8,3,53,North Parkway-1W Middle
+,,,,,84.0,Siberian Elm,26.8,2,54,41°58'41.1N 87°40'28.4W
+5256,N,PAULINA,,,42.5,Green Ash,13.5,4,54,On Berwyn South Parkway-1E
+1509,W,SUMMERDALE,,,85.0,Hackberry,27.1,2,54,South Parkway @ Corner
+5338,N,ASHLAND,,,57.0,Basswood,18.2,3,55,West Parkway
+5254,N,ASHLAND,,,57.5,Basswood,18.3,3,55,On Berwyn North Parkway
+5313,N,RAVENSWOOD,,,49.5,Locust,15.8,3.5,55,East Parkway-1N
+1743,W,BRYN MAWR,,,58.0,Honey Locust,18.5,3,56,South Parkway 1E
+5536,N,PAULINA,,,58.0,Honey Locust,18.5,3,56,West Parkway: Multi Trunk; Used Largest Circ
+1647,W,RASCHER,,,87.0,Catalpa,27.7,2,55,South Parkway
+5353,N,ASHLAND,,,35.0,Blue Spruce,11.1,5,56,East Parkway
+1729,W,RASCHER,,,58.5,Silver Maple,18.6,3,56,South Parkway; Multi-trunk. Used largest trunk.
+5301,N,RAVENSWOOD,,,58.5,Honey Locust,18.6,3,56,On Berwyn North Parkway
+5416,N,ASHLAND,,,39.3,Norway Maple,12.5,4.5,56,West Parkway
+5406,N,ASHLAND,,,59.0,Honey Locust,18.8,3,56,West Parkway
+1700,W,CATALPA,,,59.0,Honey Locust,18.8,3,56,North Parkway
+1700,W,CATALPA,,,60.0,Honey Locust,19.1,3,57,North Parkway
+5348,N,PAULINA,,,40.0,Norway Maple,12.7,4.5,57,West Parkway
+5434,N,PAULINA,,,40.0,Norway Maple,12.7,4.5,57,On Rascher North Parkway 1 W Middle
+1720,W,SUMMERDALE,,,60.0,Silver Maple,19.1,3,57,North Parkway
+5335,N,RAVENSWOOD,,,51.5,Locust,16.4,3.5,57,East Parkway
+1739,W,BERWYN,,,45.5,Green Ash,14.5,4,58,South Parkway
+1720,W,RASCHER,,,91.0,Catalpa,29,2,58,North Parkway
+5235,N,RAVENSWOOD,,,45.5,Green Ash,14.5,4,58,On Farragut North Parkway-1 W
+1733,W,CATALPA,,,61.0,Honey Locust,19.4,3,58,South Parkway
+1703,W,CATALPA,,,61.5,Honey Locust,19.6,3,59,South Parkway Near Garage Door
+5210,N,PAULINA,,,41.0,Norway Maple,13.1,4.5,59,West Parkway
+5300,N,PAULINA,,,41.0,Norway Maple,13.1,4.5,59,West Parkway
+5517,N,PAULINA,,,61.5,Honey Locust,19.6,3,59,East Parkway-1S
+1652,W,FOSTER,,,46.5,American Elm,14.8,4,59,North Parkway Lutheran Church @ Center Courtyard
+5300,N,PAULINA,,,62.5,Honey Locust,19.9,3,60,On Berwyn North Parkway-1W
+1650,W,RASCHER,,,62.5,Honey Locust,19.9,3,60,North Parkway
+1741,W,GREGORY,,,47.0,Horse Chestnust/Buckeye,15,4,60,South Parkway
+1604,W,FARRAGUT,,,42.0,Red Maple,13.4,4.5,60,North Parkway
+1728,W,RASCHER,,,42.0,Norway Maple,13.4,4.5,60,North Parkway
+1753,W,RASCHER,,,95.5,Catalpa,30.4,2,61,On Ravenswood East Parkway
+1644,W,FARRAGUT,,,42.5,Red Maple,13.5,4.5,61,North Parkway
+5414,N,PAULINA,,,34.8,Red Pine,11.1,5.5,61,West Parkway
+5308,N,PAULINA,,,64.0,Locust,20.4,3,61,West Parkway
+5545,N,RAVENSWOOD,,,64.0,Honey Locust,20.4,3,61,On Gregory North Parkway by Parking Lot 1 E
+5418,N,ASHLAND,,,43.0,Norway Maple,13.7,4.5,62,West Parkway
+1727,W,BRYN MAWR,,,64.5,Honey Locust,20.5,3,62,South Parkway
+1729,W,BRYN MAWR,,,64.5,Honey Locust,20.5,3,62,South Parkway
+1655,W,CATALPA,,,97.5,Catalpa,31.1,2,62,On Paulina East Parkway Near Corner
+1704,W,CATALPA,,,65.0,Honey Locust,20.7,3,62,North Parkway
+5454,N,PAULINA,,,43.5,Norway Maple,13.9,4.5,63,West Parkway
+5319,N,RAVENSWOOD,,,98.0,Catalpa,31.2,2,62,East Parkway
+5339,N,RAVENSWOOD,,,56.0,Locust,17.8,3.5,62,East Parkway
+1752,W,CATALPA,,,99.0,Catalpa,31.5,2,63,North Parkway near Alley
+1706,W,BALMORAL,,,99.5,Catalpa,31.7,2,63,North Parkway
+1740,W,RASCHER,,,99.5,Catalpa,31.7,2,63,North Parkway
+1718,W,FARRAGUT,,,66.5,Locust,21.2,3,64,North Parkway
+5337,N,RAVENSWOOD,,,57.0,Locust,18.2,3.5,64,East Parkway
+5501,N,PAULINA,,,66.8,Honey Locust,21.3,3,64,East Parkway-1S
+1700,W,CATALPA,,,67.0,Honey Locust,21.3,3,64,North Parkway
+1622,W,FARRAGUT,,,67.0,Honey Locust,21.3,3,64,North Parkway
+5517,N,PAULINA,,,67.0,Honey Locust,21.3,3,64,East Parkway-1N
+1720,W,BALMORAL,,,40.5,Ash,12.9,5,65,North Parkway
+5545,N,PAULINA,,,58.0,Black Locust,18.5,3.5,65,East Parkway
+5338,N,ASHLAND,,,68.0,Basswood,21.7,3,65,West Parkway
+5414,N,ASHLAND,,,68.0,Honey Locust,21.7,3,65,West Parkway
+5440,N,ASHLAND,,,68.0,Honey Locust,21.7,3,65,West Parkway
+1726,W,CATALPA,,,68.0,Honey Locust,21.7,3,65,North Parkway
+1736,W,CATALPA,,,102.0,Catalpa,32.5,2,65,North Parkway
+1622,W,RASCHER,,,68.0,Honey Locust,21.7,3,65,North Parkway
+5355,N,RAVENSWOOD,,,102.0,Cottonwood,32.5,2,65,East Parkway
+5532,N,PAULINA,,,68.5,Honey Locust,21.8,3,65,On Gregory North Parkway @ Alley
+1723,W,BRYN MAWR,,,46.0,Norway Maple,14.6,4.5,66,South Parkway
+5415,N,ASHLAND,,,104.0,Catalpa,33.1,2,66,East Parkway
+5421,N,ASHLAND,,,69.5,Honey Locust,22.1,3,66,East Parkway
+5207,N,ASHLAND,,,52.5,American Elm,16.7,4,67,East Parkway
+5235,N,ASHLAND,,,70.0,KY Coffeetree,22.3,3,67,Andersonville Playlot Park
+1706,W,BALMORAL,,,42.0,Ash,13.4,5,67,North Parkway
+5300,N,PAULINA,,,70.0,Honey Locust,22.3,3,67,On Berwyn North Parkway-1E
+1637,W,SUMMERDALE,,,70.0,Honey Locust,22.3,3,67,South Parkway
+5434,N,ASHLAND,,,47.0,Norway Maple,15,4.5,68,On Rascher North Parkway
+5520,N,PAULINA,,,47.0,Norway Maple,15,4.5,68,On Gregory South Parkway 2 W
+5520,N,PAULINA,,,47.0,Norway Maple,15,4.5,68,On Gregory South Parkway 3 W
+5254,N,ASHLAND,,,42.5,White Ash,13.5,5,68,On Berwyn North Parkway
+1741,W,CATALPA,,,71.0,Honey Locust,22.6,3,68,South Parkway
+5434,N,PAULINA,,,47.5,Norway Maple,15.1,4.5,68,On Rascher North Parkway 1 W
+1740,W,CATALPA,,,53.5,American Elm,17,4,68,North Parkway
+1743,W,BRYN MAWR,,,71.5,Honey Locust,22.8,3,68,South Parkway Middle Tree
+1702,W,CATALPA,,,72.0,Honey Locust,22.9,3,69,North Parkway
+5312,N,PAULINA,,,48.0,Norway Maple,15.3,4.5,69,West Parkway
+1640,W,RASCHER,,,48.0,Red Maple,15.3,4.5,69,North Parkway
+1715,W,RASCHER,,,108.0,Catalpa,34.4,2,69,South Parkway @ Alley Corner
+5545,N,RAVENSWOOD,,,48.0,Norway Maple,15.3,4.5,69,On Gregory North Parkway by Parking Lot 1 W
+1731,W,SUMMERDALE,,,72.0,Silver Maple,22.9,3,69,South Parkway
+1700,W,FOSTER,,,48.3,Norway Maple,15.4,4.5,69,On Paulina West Parkway Near Corner
+5235,N,ASHLAND,,,72.5,KY Coffeetree,23.1,3,69,Andersonville Playlot Park
+1702,W,CATALPA,,,72.5,Honey Locust,23.1,3,69,North Parkway
+1719,W,GREGORY,,,72.5,Linden,23.1,3,69,South Parkway
+1710,W,BALMORAL,,,48.5,Norway Maple,15.4,4.5,69,North Parkway-1E
+5520,N,PAULINA,,,48.5,Norway Maple,15.4,4.5,69,On Gregory South Parkway Corner
+1639,W,SUMMERDALE,,,48.5,Red Maple,15.4,4.5,69,South Parkway
+5554,N,PAULINA,,,73.0,Honey Locust,23.2,3,70,West Parkway
+5219,N,ASHLAND,,,55.0,American Elm,17.5,4,70,East Parkway
+5355,N,ASHLAND,,,49.0,Norway Maple,15.6,4.5,70,East Parkway
+1751,W,CATALPA,,,49.0,Norway Maple,15.6,4.5,70,South Parkway @ Corner; Multi-trunk:Largest Used
+5501,N,PAULINA,,,73.5,Honey Locust,23.4,3,70,East Parkway-1N
+1610,W,SUMMERDALE,,,49.0,Norway Maple,15.6,4.5,70,North Parkway
+1715,W,CATALPA,,,74.0,Honey Locust,23.6,3,71,South Parkway
+1750,W,SUMMERDALE,,,74.0,Honey Locust,23.6,3,71,North Parkway-1E Middle
+1750,W,SUMMERDALE,,,74.0,Honey Locust,23.6,3,71,North Parkway-2E
+5234,N,ASHLAND,,,49.5,Norway Maple,15.8,4.5,71,West Parkway
+1705,W,FARRAGUT,,,49.5,Norway Maple,15.8,4.5,71,South Parkway
+1751,W,SUMMERDALE,,,49.5,Norway Maple,15.8,4.5,71,South Parkway
+5235,N,ASHLAND,,,75.0,KY Coffeetree,23.9,3,72,Andersonville Playlot Park
+5354,N,ASHLAND,,,75.0,Honey Locust,23.9,3,72,West Parkway
+1729,W,BALMORAL,,,45.0,White Ash,14.3,5,72,South Parkway
+1646,W,FARRAGUT,,,50.0,Red Maple,15.9,4.5,72,North Parkway
+1727,W,GREGORY,,,50.0,Norway Maple,15.9,4.5,72,South Parkway
+1750,W,SUMMERDALE,,,75.0,Honey Locust,23.9,3,72,North Parkway @ NE Corner Ravenswood
+1633,W,BERWYN,,,50.5,Red Maple,16.1,4.5,72,South Parkway
+1747,W,FARRAGUT,,,50.5,Maple,16.1,4.5,72,South Parkway
+5304,N,PAULINA,,,50.5,Norway Maple,16.1,4.5,72,West Parkway
+1726,W,BALMORAL,,,114.0,Catalpa,36.3,2,73,North Parkway
+1725,W,CATALPA,,,76.0,Honey Locust,24.2,3,73,South Parkway
+1647,W,RASCHER,,,76.0,Honey Locust,24.2,3,73,South Parkway @ Corner
+5547,N,RAVENSWOOD,,,57.0,American or Slippery Elm,18.2,4,73,On Bryn Mawr South Parkway; 1E
+5443,N,PAULINA,,,76.3,Honey Locust,24.3,3,73,East Parkway
+1636,W,BERWYN,,,76.5,Silver Maple,24.4,3,73,North Parkway
+1750,W,RASCHER,,,51.0,Norway Maple,16.2,4.5,73,North Parkway
+1602,W,SUMMERDALE,,,51.0,Norway Maple,16.2,4.5,73,North Parkway
+1736,W,SUMMERDALE,,,76.5,Honey Locust,24.4,3,73,North Parkway
+5235,N,RAVENSWOOD,,,57.5,Green Ash,18.3,4,73,On Farragut North Parkway-1 E
+5235,N,ASHLAND,,,77.0,KY Coffeetree,24.5,3,74,Andersonville Playlot Park
+1728,W,CATALPA,,,77.0,Honey Locust,24.5,3,74,North Parkway
+1721,W,BERWYN,,,51.5,Norway Maple,16.4,4.5,74,South Parkway
+1631,W,BERWYN,,,52.0,Red Maple,16.6,4.5,75,South Parkway
+1631,W,RASCHER,,,52.0,Norway Maple,16.6,4.5,75,South Parkway
+5520,N,PAULINA,,,52.3,Norway Maple,16.6,4.5,75,West Parkway-1S
+1724,W,BALMORAL,,,78.5,Honey Locust,25,3,75,North Parkway
+5507,N,PAULINA,,,78.5,Honey Locust,25,3,75,East Parkway
+5547,N,ASHLAND,,,78.6,Silver Maple,25,3,75,Mellin Playlot Park
+5312,N,PAULINA,,,52.5,Norway Maple,16.7,4.5,75,West Parkway
+1640,W,SUMMERDALE,,,52.5,Red Maple,16.7,4.5,75,North Parkway
+1637,W,BERWYN,,,79.0,Silver Maple,25.2,3,76,South Parkway
+5510,N,PAULINA,,,79.0,Honey Locust,25.2,3,76,West Parkway
+1730,W,GREGORY,,,59.5,Sycamore,18.9,4,76,North Parkway
+1604,W,FARRAGUT,,,53.0,Red Maple,16.9,4.5,76,North Parkway
+1725,W,FARRAGUT,,,53.0,Norway Maple,16.9,4.5,76,South Parkway
+5356,N,PAULINA,,,53.0,Norway Maple,16.9,4.5,76,On Balmoral South Parkway
+5434,N,PAULINA,,,53.0,Norway Maple,16.9,4.5,76,On Rascher North Parkway @ Corner
+1640,W,FARRAGUT,,,53.3,Red Maple,17,4.5,77,North Parkway
+5304,N,PAULINA,,,53.3,Norway Maple,17,4.5,77,West Parkway
+1604,W,BERWYN,,,40.0,Crabapple,12.7,6,76,North Parkway
+1730,W,CATALPA,,,80.0,Honey Locust,25.5,3,77,North Parkway
+1705,W,FARRAGUT,,,80.0,Basswood/Linden,25.5,3,77,South Parkway
+1739,W,SUMMERDALE,,,80.0,Honey Locust,25.5,3,77,South Parkway
+1722,W,CATALPA,,,81.0,Honey Locust,25.8,3,77,North Parkway
+1751,W,CATALPA,,,54.0,Norway Maple,17.2,4.5,77,South Parkway Middle Tree
+5434,N,PAULINA,,,54.0,Norway Maple,17.2,4.5,77,On Rascher North Parkway 1 E Middle
+5441,N,PAULINA,,,54.0,Norway Maple,17.2,4.5,77,East Parkway
+1642,W,RASCHER,,,81.0,Honey Locust,25.8,3,77,North Parkway
+1739,W,RASCHER,,,54.0,Norway Maple,17.2,4.5,77,South Parkway by Side Yard
+1700,W,FARRAGUT,,,81.5,Silver Maple,26,3,78,On Paulina West Parkway-1N White House
+1736,W,GREGORY,,,81.5,Honey Locust,26,3,78,North Parkway
+1654,W,BERWYN,,,54.5,Norway Maple,17.4,4.5,78,North Parkway
+1738,W,GREGORY,,,55.0,Norway Maple,17.5,4.5,79,North Parkway
+5406,N,PAULINA,,,55.0,Norway Maple,17.5,4.5,79,West Parkway
+1751,W,SUMMERDALE,,,55.0,Norway Maple,17.5,4.5,79,South Parkway
+1616,W,BERWYN,,,83.0,Honey Locust,26.4,3,79,North Parkway
+5235,N,ASHLAND,,,125.0,Cottonwood,39.8,2,80,Andersonville Playlot Park
+5235,N,ASHLAND,,,125.0,Cottonwood,39.8,2,80,Andersonville Playlot Park
+1720,W,BERWYN,,,62.5,Green Ash,19.9,4,80,North Parkway-1W
+5440,N,PAULINA,,,83.5,Honey Locust,26.6,3,80,West Parkway
+1719,W,BALMORAL,,,56.0,Norway Maple,17.8,4.5,80,South Parkway
+1722,W,FARRAGUT,,,84.0,Silver Maple,26.8,3,80,North Parkway
+5323,N,PAULINA,,,56.0,Norway Maple,17.8,4.5,80,On Summerdale South Parkway @ Corner
+5554,N,PAULINA,,,63.0,Green Ash,20.1,4,80,On Bryn Mawr South Parkway Middle Tree
+1615,W,RASCHER,,,56.0,Norway Maple,17.8,4.5,80,South Parkway
+5520,N,PAULINA,,,56.5,Norway Maple,18,4.5,81,West Parkway Near Corner-Hartwell Place
+1700,W,FARRAGUT,,,85.0,Silver Maple,27.1,3,81,On Paulina West Parkway-1 S White House
+,,,,,128.0,Cottonwood,40.8,2,82,41°58'41.2N 87°40'28.3W
+5439,N,PAULINA,,,57.0,Norway Maple,18.2,4.5,82,East Parkway
+1615,W,RASCHER,,,57.0,Norway Maple,18.2,4.5,82,South Parkway
+1732,W,RASCHER,,,86.0,Honey Locust,27.4,3,82,North Parkway
+1714,W,BERWYN,,,65.0,Green Ash,20.7,4,83,North Parkway
+1751,W,CATALPA,,,65.0,American Elm,20.7,4,83,South Parkway @ SW Corner of Ravenswood
+5521,N,PAULINA,,,58.0,Norway Maple,18.5,4.5,83,East Parkway
+1700,W,SUMMERDALE,,,52.5,Ash,16.7,5,84,North Parkway East of Alley
+1716,W,BERWYN,,,66.0,Green Ash,21,4,84,North Parkway
+1731,W,BERWYN,,,66.0,Green Ash,21,4,84,South Parkway
+1602,W,SUMMERDALE,,,89.0,Silver Maple,28.3,3,85,North Parkway
+1654,W,BERWYN,,,59.5,Norway Maple,18.9,4.5,85,North Parkway
+5542,N,ASHLAND,,,90.0,Silver Maple,28.7,3,86,West Parkway
+1731,W,BALMORAL,,,90.0,Honey Locust,28.7,3,86,South Parkway
+5352,N,ASHLAND,,,54.5,White Ash,17.4,5,87,West Parkway
+1718,W,BALMORAL,,,61.0,Norway Maple,19.4,4.5,87,North Parkway
+1734,W,BALMORAL,,,61.0,Norway Maple,19.4,4.5,87,North Parkway
+1719,W,BRYN MAWR,,,91.5,Silver Maple,29.1,3,87,South Parkway
+1636,W,RASCHER,,,61.0,Red Maple,19.4,4.5,87,North Parkway
+1641,W,BERWYN,,,55.0,White Ash,17.5,5,88,South Parkway
+1622,W,BERWYN,,,92.0,Honey Locust,29.3,3,88,North Parkway
+1737,W,BALMORAL,,,61.5,Norway Maple,19.6,4.5,88,South Parkway
+1738,W,BALMORAL,,,61.5,Norway Maple,19.6,4.5,88,North Parkway
+5338,N,PAULINA,,,92.5,Honey Locust,29.5,3,89,West Parkway
+1735,W,BERWYN,,,62.0,Norway Maple,19.7,4.5,89,South Parkway
+1701,W,FARRAGUT,,,62.0,Norway Maple,19.7,4.5,89,On Paulina West Parkway Blue House
+5418,N,PAULINA,,,62.0,Norway Maple,19.7,4.5,89,West Parkway
+5540,N,PAULINA,,,62.0,Norway Maple,19.7,4.5,89,West Parkway
+1715,W,BALMORAL,,,70.0,Sycamore,22.3,4,89,South Parkway
+1751,W,SUMMERDALE,,,80.0,Locust,25.5,3.5,89,On Ravenswood South Parkway @ Corner
+5324,N,ASHLAND,,,56.5,White Ash,18,5,90,West Parkway
+1739,W,CATALPA,,,94.5,Silver Maple,30.1,3,90,South Parkway
+1727,W,BERWYN,,,71.5,Green Ash,22.8,4,91,South Parkway
+1714,W,BALMORAL,,,64.0,Norway Maple,20.4,4.5,92,North Parkway
+1615,W,RASCHER,,,64.0,Norway Maple,20.4,4.5,92,South Parkway
+1641,W,SUMMERDALE,,,64.0,Red Maple,20.4,4.5,92,South Parkway
+1732,W,FARRAGUT,,,64.5,Maple,20.5,4.5,92,North Parkway
+5208,N,PAULINA,,,64.5,Norway Maple,20.5,4.5,92,West Parkway
+1714,W,FARRAGUT,,,97.0,Silver Maple,30.9,3,93,North Parkway
+1626,W,RASCHER,,,97.0,Honey Locust,30.9,3,93,North Parkway
+1616,W,RASCHER,,,65.0,Norway Maple,20.7,4.5,93,North Parkway
+5353,N,RAVENSWOOD,,,147.0,Cottonwood,46.8,2,94,East Parkway
+1732,W,GREGORY,,,65.5,Norway Maple,20.9,4.5,94,North Parkway
+5554,N,PAULINA,,,74.0,Green Ash,23.6,4,94,On Bryn Mawr South Parkway-1E
+1721,W,BALMORAL,,,66.0,Norway Maple,21,4.5,95,South Parkway
+1615,W,RASCHER,,,66.0,Red Maple,21,4.5,95,South Parkway
+1643,W,RASCHER,,,66.0,Red Maple,21,4.5,95,South Parkway
+5315,N,RAVENSWOOD,,,60.0,White Ash,19.1,5,96,East Parkway-1N
+1720,W,CATALPA,,,67.0,Norway Maple,21.3,4.5,96,North Parkway
+5511,N,PAULINA,,,67.5,Norway Maple,21.5,4.5,97,East Parkway
+1714,W,RASCHER,,,67.5,Norway Maple,21.5,4.5,97,North Parkway @ Alley Corner
+1604,W,FARRAGUT,,,61.0,White Ash,19.4,5,97,North Parkway
+1723,W,GREGORY,,,61.0,Burr Oak,19.4,5,97,South Parkway
+5501,N,RAVENSWOOD,,,76.5,Green Ash,24.4,4,98,On Berwyn North Parkway
+1614,W,SUMMERDALE,,,153.0,Cottonwood,48.7,2,97,North Parkway
+1620,W,SUMMERDALE,,,68.0,Red Maple,21.7,4.5,98,North Parkway
+1720,W,BERWYN,,,77.0,Green Ash,24.5,4,98,North Parkway-1E
+1628,W,SUMMERDALE,,,68.5,Red Maple,21.8,4.5,98,North Parkway
+5346,N,PAULINA,,,69.0,Norway Maple,22,4.5,99,West Parkway
+1705,W,RASCHER,,,69.0,Norway Maple,22,4.5,99,South Parkway
+1733,W,BERWYN,,,78.0,Green Ash,24.8,4,99,South Parkway
+1732,W,FOSTER,,,78.5,Elm,25,4,100,North Parkway
+1638,W,BERWYN,,,105.0,Silver Maple,33.4,3,100,North Parkway
+5235,N,RAVENSWOOD,,,106.0,Silver Maple,33.8,3,101,On Berwyn South Parkway
+5434,N,ASHLAND,,,71.0,Norway Maple,22.6,4.5,102,On Rascher North Parkway @ Corner
+1729,W,GREGORY,,,106.5,Honey Locust,33.9,3,102,South Parkway
+1738,W,BERWYN,,,80.0,Green Ash,25.5,4,102,North Parkway
+1723,W,BALMORAL,,,64.5,White Ash,20.5,5,103,South Parkway
+1721,W,BRYN MAWR,,,107.5,Silver Maple,34.2,3,103,South Parkway
+1700,W,SUMMERDALE,,,64.5,Ash,20.5,5,103,North Parkway Middle Tree
+1748,W,FARRAGUT,,,81.0,American Elm,25.8,4,103,North Parkway-By Parking Lot
+5352,N,PAULINA,,,81.0,Sycamore,25.8,4,103,West Parkway
+1700,W,SUMMERDALE,,,108.0,Silver Maple,34.4,3,103,North Parkway
+5457,N,PAULINA,,,72.5,Norway Maple,23.1,4.5,104,East Parkway
+5523,N,RAVENSWOOD,,,73.0,Norway Maple,23.2,4.5,104,On Gregory South Parkway 3 E
+5422,N,PAULINA,,,73.5,Norway Maple,23.4,4.5,105,West Parkway
+1715,W,FARRAGUT,,,74.0,Norway Maple,23.6,4.5,106,South Parkway
+1701,W,SUMMERDALE,,,111.5,Silver Maple,35.5,3,107,South Parkway
+1703,W,SUMMERDALE,,,111.5,Silver Maple,35.5,3,107,South Parkway
+1714,W,SUMMERDALE,,,67.0,Ash,21.3,5,107,North Parkway
+1725,W,SUMMERDALE,,,67.0,Ash,21.3,5,107,South Parkway
+1715,W,BERWYN,,,75.0,Norway Maple,23.9,4.5,108,South Parkway
+1654,W,FARRAGUT,,,113.0,Silver Maple,36,3,108,North Parkway
+5532,N,PAULINA,,,49.0,Redbud,15.6,7,109,On Gregory North Parkway
+1615,W,RASCHER,,,77.0,Norway Maple,24.5,4.5,110,South Parkway
+5348,N,ASHLAND,,,69.5,White Ash,22.1,5,111,West Parkway
+5352,N,PAULINA,,,116.0,Silver Maple,36.9,3,111,West Parkway
+5554,N,PAULINA,,,87.0,Green Ash,27.7,4,111,On Bryn Mawr South Parkway-1W
+1629,W,SUMMERDALE,,,117.0,Silver Maple,37.3,3,112,South Parkway
+1711,W,BERWYN,,,118.0,Silver Maple,37.6,3,113,South Parkway
+1632,W,SUMMERDALE,,,118.0,Silver Maple,37.6,3,113,North Parkway
+5353,N,ASHLAND,,,72.0,Ash,22.9,5,115,East Parkway
+1617,W,BERWYN,,,72.0,White Ash,22.9,5,115,South Parkway
+5310,N,ASHLAND,,,73.0,White Ash,23.2,5,116,West Parkway
+1625,W,BERWYN,,,73.0,White Ash,23.2,5,116,South Parkway
+1734,W,FOSTER,,,91.5,Elm,29.1,4,116,North Parkway
+1620,W,SUMMERDALE,,,82.0,Red Maple,26.1,4.5,117,North Parkway
+1710,W,FARRAGUT,,,126.0,Sliver Maple,40.1,3,120,North Parkway
+1631,W,SUMMERDALE,,,127.0,Silver Maple,40.4,3,121,South Parkway
+1645,W,BERWYN,,,76.5,White Ash,24.4,5,122,South Parkway
+,,,,,192.0,Cottonwood,61.1,2,122,41°58'44.7N 87°40'28.3W
+1732,W,BERWYN,,,99.0,Green Ash,31.5,4,126,North Parkway
+5324,N,ASHLAND,,,79.5,White Ash,25.3,5,127,On Summerdale South Parkway Near Corner
+1651,W,FOSTER,,,173.0,Mulberry,55.1,2.3,127,Lutheran Church Side Yard Behind Fence
+1737,W,FARRAGUT,,,82.0,Ash,26.1,5,131,South Parkway
+5521,N,RAVENSWOOD,,,148.0,Silver Maple,47.1,3,141,East Parkway; 5 trunks;Total Circ Used
+1720,W,SUMMERDALE,,,89.0,Ash,28.3,5,142,North Parkway
+1735,W,FARRAGUT,,,92.0,Ash,29.3,5,147,South Parkway
+1616,W,FARRAGUT,,,117.0,Sycamore,37.3,4,149,North Parkway
+1616,W,FARRAGUT,,,120.0,Sycamore,38.2,4,153,North Parkway
+1638,W,SUMMERDALE,,,96.0,White Ash,30.6,5,153,North Parkway
+5345,N,RAVENSWOOD,,,164.0,Silver Maple,52.2,3,157,East Parkway
+1701,W,FARRAGUT,,,133.0,Elm,42.4,4,170,South Parkway
+1734,W,RASCHER,,,112.5,White Ash,35.8,5,179,North Parkway
+1724,W,RASCHER,,,123.0,White Ash,39.2,5,196,North Parkway

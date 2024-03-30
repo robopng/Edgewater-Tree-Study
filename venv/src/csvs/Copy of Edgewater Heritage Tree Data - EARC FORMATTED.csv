@@ -1,0 +1,103 @@
+ADDR_NUM,ADDR_DIR,ADDR_NAME,TRACT,BLOCK,CIRCUMFERENCE,SPECIES,DIAMETER,GRF,AGE,NOTE
+5400,N,Wayne,308,2006,93,Honey Locust,29.6,3,89,NE corner parkway
+5400,N,Wayne,308,2006,98,Honey Locust,31.2,3,94,N parkway
+1354,W,Balmoral,308,2007,84,American Elm?,26.7,4,107,Mid Parkway
+1354,W,Balmoral,308,,74,Honey Locust,23.6,3,71,NW side
+1354,W,Balmoral,308,,73,Sliver maple,23.2,3,70,Corner
+1408,W,Balmoral,308,,88,Sliver maple,28,3,84,West End
+1420,W,Balmoral,308,,104,Sliver maple,33.1,3,99,
+1428,W,Balmoral,308,,86,Honey Locust,27.4,4.5,119,
+1436,W,Balmoral,308,,80,Sliver maple,25.5,3,82,
+1438,W,Balmoral,308,,60,GR or White Ash,19.1,5,95,Tree tagged Twice
+1448,W,Balmoral,308,,67,Norway Maple,21.3,4.5,107,
+1460,W,Balmoral,308,2014,59,Norway Maple,18.8,4.5,84,
+1472,W,Balmoral,308,,66,Honey Locust,21,3,63,By Lescas garden
+1341,W,Balmoral,308,,65,Silver maple,21,3,62,
+1351,W,Balmoral,308,,64,Silver maple,20,3,61,
+1355,W,Balmoral,308,,71,Silver maple,22,3,68,West Emd
+1401,W,Balmoral,308,,53,Ash,17,5,84,
+1415,W,Balmoral,308,3008,94,Sliver maple,30,3,90,
+1419,W,Balmoral,308,,64,Sliver maple,20,3,61,
+1421,W,Balmoral,308,,67,Honey Locust,21,3,64,
+1431,W,Balmoral,308,,66,Norway Maple?,21,4.5,94,
+1459,W,Balmoral,308,,56,Norway Maple?,18,4.5,80,
+1469,W,Balmoral,308,3009,60,Honey Locust,18,3,57,
+5527,N,Glenwood,308,,103,Honey Locust,33,3,99,
+5521,N,Glenwood,308,,41,Norway Maple,13,4.5,59,
+5519,N,Glenwood,308,,60,Norway Maple,19,4.5,86,
+5517,N,Glenwood,308,,48,Honey Locust,15,3,45,
+5511,N,Glenwood,308,,70,American Elm,22,4,88,
+5505,N,Glenwood,308,1007,86,Green Ash,27,4,108,
+5506,N,Glenwood,308,,89,Silver maple,28,3,84,
+5508,N,Glenwood,308,,100,American Elm,32,4,128,
+5512,N,Glenwood,308,,53,American Elm,17,4,68,
+5514,N,Glenwood,308,,114,Silver maple,36,3,108,
+5518,N,Glenwood,308,,50,Honey Locust,16,3,48,
+5520,N,Glenwood,308,,44,Red Maple,14,4.5,63,
+5536,N,Glenwood,308,,59,White Ash,19,5,95,
+5538,N,Glenwood,308,,64,White Ash,20,5,100,
+5540,N,Glenwood,308,,53,Burr Oak,17,5,85,
+5542,N,Glenwood,308,,51,White Ash,16,5,80,
+5544,N,Glenwood,308,,35,Red Maple,11,4.5,50,
+5550,N,Glenwood,308,,43,Red Maple,14,4.5,63,
+5550,N,Glenwood,308,,84,???,27,,0,Just North
+5550,N,Glenwood,308,,41,Common Hackberry,13,2,26,Parking Lot
+5550,N,Glenwood,308,,40,Common Hackberry,13,2,26,          
+0,W,INVALID,,,33,American Elm,11,4,44,East side of Gregory on Glenwood around the corner from 1355 Bryn Mawr
+5553,N,Glenwood,,,33,Norway Maple,11,4.5,50,
+5551,N,Glenwood,,,68,Honey Locust,22,3,66,
+5549,N,Glenwood,,,87,Honey Locust,28,3,84,
+5537,N,Glenwood,,,97,Honey Locust,31,3,93,
+5401,N,Glenwood,,,86,Honey Locust,27,3,81,
+5411,N,Glenwood,,,88,American Elm,28,4,112,
+5417,N,Glenwood,,,78,Honey Locust,25,3,75,
+5417,N,Glenwood,,,101,Honey Locust,32,3,96,
+5419,N,Glenwood,,,45,Silver maple,14,3,42,
+5421,N,Glenwood,,,87,Honey Locust,28,3,84,
+5425,N,Glenwood,,,85,Silver maple,27,3,81,
+5426,N,Glenwood,,,58,White Ash,18,5,90,On corner of Glenwwod around the corner from 1403 Rascher
+0,W,INVALID,,,53,Green Ash,17,4,68,???
+5418,N,Glenwood,,,57,Green Ash,18,4,72,
+5416,N,Glenwood,,,60,Honey Locust,19,3,57,
+5412,N,Glenwood,,,35,Green Ash,11,4,44,
+5410,N,Glenwood,,,39,Norway Maple,12,4.5,54,
+5410,N,Glenwood,,,57,Green Ash,18,4,72,
+5400,N,Glenwood,,,83,Silver Maple,26,3,78,
+5432,N,Glenwood,,,55,Honey Locust,18,3,54,
+5434,N,Glenwood,,,92,Silver Maple,29,3,87,
+5442,N,Glenwood,,,69,White Ash,22,5,110,
+5444,N,Glenwood,,,64,White Ash,20,5,100,
+5448,N,Glenwood,,,59,Norway Maple,19,4.5,86,
+5452,N,Glenwood,,,43,American Elm,14,4,56,
+5455,N,Glenwood,,,85,Honey Locust,27,3,81,On Glenwwod around the corner from Catalpa -North of 5455 Glenwood
+5449,N,Glenwood,,,98,Silver Maple,31,3,93,
+5445,N,Glenwood,,,58,Red Maple,18,4.5,81,
+5439,N,Glenwood,,,46,White Ash,15,5,75,
+5437,N,Glenwood,,,39,White Ash,12,5,60,
+5433,N,Glenwood,,,67,White Ash,21,5,105,
+5431,N,Glenwood,,,32,Green Ash,10,4,40,
+5302,N,Glenwood,,,58,Honey Locust,18,3,54,
+5306,N,Glenwood,,,51,White Ash,16,5,80,
+5308,N,Glenwood,,,37,Norway Maple,12,4.5,54,
+5314,N,Glenwood,,,58,White Ash,18,5,90,
+5318,N,Glenwood,,,62,Honey Locust,20,3,60,
+5322,N,Glenwood,,,87,Silver Maple,28,3,84,
+5325,N,Glenwood,,,34,Honey Locust,11,3,33,Two trees togther
+5325,N,Glenwood,,,42,Honey Locust,13,3,39,Two trees togther
+5311,N,Glenwood,,,67,White Ash,21,5,105,Property line between
+5311,N,Glenwood,,,62,White Ash,20,5,100,
+5305,N,Glenwood,,,87,American Elm,28,4,112,
+5305,N,Glenwood,,,43,Field Elm,14,,0,south of 5305 around corner
+1354,W,Summerdale,,,31,American Elm,10,3,30,On Glenwood corner
+1400,W,Summerdale,,,73,Common Hackberry,23,2,46,Around corner on Glenwood
+5338,N,Glenwood,,,59,Norway Maple,19,4.5,86,
+5342,N,Glenwood,,,50,Norway Maple,16,4.5,72,
+5346,N,Glenwood,,,44,Norway Maple,14,4.5,63,
+5350,N,Glenwood,,,79,Silver Maple,25,3,75,
+5354,N,Glenwood,,,37,Norway Maple,12,4.5,54,
+5356,N,Glenwood,,,47,Norway Maple,15,4.5,68,
+1355,W,Balmoral,,,115,Silver Elm,37,2,74,On Glenwood corner
+5355,N,Glenwood,,,80,Honey Locust,25,3,75,
+5351,N,Glenwood,,,86,Honey Locust,27,3,81,
+5345,N,Glenwood,,,122,Honey Locust,39,3,117,
+5345,N,Glenwood,,,86,Siver Maple,27,3,81,
