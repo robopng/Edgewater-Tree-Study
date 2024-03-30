@@ -31,14 +31,17 @@ with (open(output,mode='w') as output_file,
             input_file.readline()
             for line in input_file:
                 line = line.upper()
+                # csv reader gives back some weird results...
                 split = [item for item in csv.reader([line], skipinitialspace=True)][0]
 
+                # just the criteria for something being broken; no addr, no age, no spec
                 if split[addr_num_col] == '0' or split[addr_num_col] == ''\
                    or split[age_col] == '0' or split[spec_col] == '':
                     output_file.write(f'BROKEN! NEEDS FIXING: {line}')
                     continue
 
                 addr = f'{split[addr_num_col]} {split[addr_dir_col]} {split[addr_name_col]}'
+                # add more here as needed
                 for tracker in ('TOTAL COMPLETE', split[spec_col]):
                     if tracker not in unique_items:
                         unique_items[tracker] = 0
