@@ -1,5 +1,7 @@
 import csv
 
+### Please ignore the terrible inefficiency of this code.
+
 file = []
 path_in = ".\\src\\inputs\\result3.csv"
 path_out = ".\\src\\outputs\\tracts_and_blocks.csv"
