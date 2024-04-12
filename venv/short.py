@@ -1,5 +1,5 @@
-path = "C:\\Users\\robop\\PycharmProjects\\edgewater tree data\\venv\\src\\inputs\\Copy of Edgewater Heritage Tree Data - EPIC.csv"
-path2 = "C:\\Users\\robop\\PycharmProjects\\edgewater tree data\\venv\\src\\outputs\\Copy of Edgewater Heritage Tree Data - EPIC.csv"
+path = ".\\src\\inputs\\current_census_result_epic.csv"
+path2 = ".\\src\\inputs\\epic_pass_to_geocode.csv"
 with (open(path,mode='r') as input_file,
       open(path2,mode='w') as output_file):
     input_file.readline()

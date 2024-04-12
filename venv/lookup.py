@@ -1,6 +1,6 @@
 # read 9 times
 
-path = ".\\src\\inputs\\Copy of Edgewater Heritage Tree Data - MASTER.csv"
+path = ".\\src\\inputs\\master_copy.csv"
 path_out = ".\\src\\outputs\\addresses.csv"
 counter = 1
 
